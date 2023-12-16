@@ -23,7 +23,7 @@ public class Application {
 		     
 		     //for inserting single value
 		     
-		    /* UserEntity u=new UserEntity(100,"daya","gujurat",6451351212L);
+		    /* UserEntity u=new UserEntity(101,"daya","gujurat",6451351212L);
 		    repository.save(u);
 		    System.out.println("insert successfully");*/
 		     
