@@ -8,6 +8,11 @@ import com.nit.entity.UserEntity;
 @Repository
 public interface UserRepository extends JpaRepository<UserEntity,Integer>{
 
-     public ad();
- 
+
+//bug-131 fixed changes
+ public void add();
+       int x=10;
+   //logic is in progress
+
+
 }
